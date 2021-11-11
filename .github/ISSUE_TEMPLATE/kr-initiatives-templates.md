@@ -2,7 +2,7 @@
 name: KR Initiatives Templates
 about: An Initiative to achieve a Key Result
 title: ''
-labels: ''
+labels: okr-initiative
 assignees: ''
 
 ---

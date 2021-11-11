@@ -2,7 +2,7 @@
 name: KR Action Plan Templates
 about: Action plan to achieve a Key Result
 title: ''
-labels: ''
+labels: okr-actionplan
 assignees: ''
 
 ---

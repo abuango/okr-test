@@ -3,7 +3,7 @@ name: Key Results Template
 about: Template for creating issues for Key Results in an OKR with child issues for
   individual Initiatives
 title: ''
-labels: ''
+labels: okr-kr
 assignees: ''
 
 ---
