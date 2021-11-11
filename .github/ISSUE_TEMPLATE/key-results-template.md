@@ -24,8 +24,8 @@ assignees: ''
 
 <!-- Provide a Checklist of all the initiatives for achieving this Key Result. Each checklist item should be an existing issue if an initiative's action plans are being tracked in a separate issue. You can also convert an item to an issue by clicking the ellipsis near the item and select 'Convert to Issue'   -->
 
-- [ ] Action Plan 1
-- [ ] Action Plan 2
+- [ ] Initiative 1
+- [ ] Initiative 2
 
 ## Notes
 
